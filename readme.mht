@@ -1,0 +1,57 @@
+From: "Saved by Internet Explorer 11"
+Subject: Django Web App Configuration
+Date: Thu, 9 Jun 2016 14:23:13 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Projects\huguesv\PTVS-Samples\PollsDjango\Readme\readme.html
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.10011.16384
+
+=EF=BB=BF<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "" ""><!--=0A=
+ Copyright (c) Microsoft Corporation.=0A=
+=0A=
+ This source code is subject to terms and conditions of the Apache =
+License, Version 2.0. A=0A=
+ copy of the license can be found in the License.html file at the root =
+of this distribution. If=0A=
+ you cannot locate the Apache License, Version 2.0, please send an email =
+to=0A=
+ vspython@microsoft.com. By using this source code in any fashion, you =
+are agreeing to be bound=0A=
+ by the terms of the Apache License, Version 2.0.=0A=
+=0A=
+ You must not remove this notice, or any other, from this software.=0A=
+--><HTML=20
+lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><META =
+content=3D"IE=3D11.0000"=20
+http-equiv=3D"X-UA-Compatible">
+    =20
+<META charset=3D"utf-8">     <TITLE>Django Web App Configuration</TITLE> =
+    <LINK=20
+href=3D"../../../../../PythonTools/ReadmeStyle.css" rel=3D"stylesheet" =
+type=3D"text/css">=20
+<META name=3D"GENERATOR" content=3D"MSHTML 11.00.10586.306"></HEAD>=20
+<BODY>
+<H1 class=3D"top">One more thing...</H1>
+<P>        Before running this project, you need to <STRONG>            =
+create=20
+the            database         </STRONG>.     </P>
+<H1>Create the Database</H1>
+<P>        This project has default settings for the database (it uses =
+sqlite). =20
+      You'll need to create the database and create a superuser before =
+running=20
+the project.     </P>
+<OL>
+  <LI>Open Solution Explorer.</LI>
+  <LI>            Right-click the project node and select=20
+  <STRONG>Python-&gt;Django Migrate</STRONG>.         </LI>
+  <LI>            Right-click the project node and select=20
+  <STRONG>Python-&gt;Django Create Superuser</STRONG>.         </LI>
+  <LI>            Enter a user name, email and password when prompted. =
+The=20
+  username            and password do not need to match any existing =
+account.   =20
+       </LI></OL></BODY></HTML>
