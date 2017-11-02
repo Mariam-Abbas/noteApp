@@ -2,7 +2,7 @@
 Definition of views.
 """
 
-from .models import Note
+from app.models import Note
 from app.models import Choice, Poll
 from datetime import datetime
 from django.contrib.auth.decorators import login_required
